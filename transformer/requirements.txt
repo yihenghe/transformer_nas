@@ -1,0 +1,4 @@
+tensorboardX
+torchtext==0.6.0
+tqdm
+spacy
